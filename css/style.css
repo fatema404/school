@@ -155,12 +155,10 @@ display: flex;
     color: #585859;
     font-size: 16px;
 line-height: 24px;
-
-
-
 }
 .course li i{
 margin-right: 10px;
+justify-content: space-between;
 }
 .heading h1{
     color: #413960;
